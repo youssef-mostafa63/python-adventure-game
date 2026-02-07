@@ -19,6 +19,10 @@ The game simulates an interactive story where the player makes choices that affe
 - Random elements for varied gameplay
 - Well-commented code for readability
 
+## Project Structure
+- main game file containing game logic
+- testing file used to validate project requirements (from Udacity)
+
 ## Technologies Used
 - Python
 - Terminal / Command Line Interface
