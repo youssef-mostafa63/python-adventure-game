@@ -1,2 +1,27 @@
-# python-adventure-game
-Text-based adventure game built with Python as part of the Digital Egypt Cubs Initiative (DECI) / Udacity program. The game features player choices, win/lose conditions, replay functionality, and randomized outcomes.
+# Python Adventure Game
+
+This project is a text-based adventure game developed in Python as part of my training in the Digital Egypt Cubs Initiative (DECI) in collaboration with Udacity.
+
+## Overview
+The game simulates an interactive story where the player makes choices that affect the outcome. It demonstrates fundamental programming concepts including:
+
+- Conditional logic
+- Functions
+- User input handling
+- Randomization
+- Game flow control
+
+## Features
+- Interactive scenario descriptions
+- Player decision branching
+- Winning and losing conditions
+- Replay option after game completion
+- Random elements for varied gameplay
+- Well-commented code for readability
+
+## Technologies Used
+- Python
+- Terminal / Command Line Interface
+
+## Purpose
+This project was built to strengthen problem-solving and programming fundamentals.
