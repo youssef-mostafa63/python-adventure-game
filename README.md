@@ -27,5 +27,5 @@ The game simulates an interactive story where the player makes choices that affe
 - Python
 - Terminal / Command Line Interface
 
-## Purpose
-This project was built to strengthen problem-solving and programming fundamentals.
+## Project Status
+**Graduated with honors** from Udacity review.
